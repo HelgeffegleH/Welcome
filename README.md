@@ -15,3 +15,4 @@ Available repositories:
 
 ### MATLAB:
 *  [psim](https://github.com/HelgeffegleH/psim) - Monte carlo simulation of texas hold'em poker games. Uses the  **2+2 algorithm**. See code comments.
+*  [snp](https://github.com/HelgeffegleH/snp) - Salt and pepper noise removal function. [Wiki.](https://github.com/HelgeffegleH/snp/wiki) (Contains images of cats :smile_cat:)
