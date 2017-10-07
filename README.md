@@ -8,8 +8,8 @@ Available repositories:
 *	[buf](https://github.com/HelgeffegleH/buf) - Simple buffer operations. [Wiki](https://github.com/HelgeffegleH/buf/wiki/About).
 *	[hashTable](https://github.com/HelgeffegleH/hashTable) - Custom associative array. [Wiki](https://github.com/HelgeffegleH/hashTable/wiki) and [AHK forum](https://autohotkey.com/boards/viewtopic.php?f=6&t=36377).
 *  [kbhook](https://github.com/HelgeffegleH/kbhook) - Low level keyboard hook class. See code comments for instructions.
-*  [LoadPictureType](https://github.com/HelgeffegleH/LoadPictureType) - Wrapper and extension of AHK function LoadPicture. [Docs.](https://autohotkey.com/boards/viewtopic.php?f=6&t=33209 "Visit autohotkey.com forums")
-*  [LongHotkey](https://github.com/HelgeffegleH/longhotkey) - Custom combination hotkeys for more than two keys, eg, `a & b & c`. [Docs.](https://autohotkey.com/boards/viewtopic.php?f=6&t=24145 "Visit autohotkey.com forums")
+*  [LoadPictureType](https://github.com/HelgeffegleH/LoadPictureType) - Wrapper and extension of AHK function LoadPicture. [AHK forum.](https://autohotkey.com/boards/viewtopic.php?f=6&t=33209 "Visit autohotkey.com forums")
+*  [LongHotkey](https://github.com/HelgeffegleH/longhotkey) - Custom combination hotkeys for more than two keys, eg, `a & b & c`. [AHK forum.](https://autohotkey.com/boards/viewtopic.php?f=6&t=24145 "Visit autohotkey.com forums")
 *  [Rational](https://github.com/HelgeffegleH/rational) - Basic rational number representation, with __reduce__. See example.
 *  [SendInput](https://github.com/HelgeffegleH/SendInput) - Experimental alternatives for built-in send methods. Undocumented, see code comments. 
 *  [taskbarInterface](https://github.com/HelgeffegleH/taskbarInterface) - Taskbar ornaments and controls. [Wiki.](https://github.com/HelgeffegleH/taskbarInterface/wiki) and [AHK forum](https://autohotkey.com/boards/viewtopic.php?f=6&t=35348).
