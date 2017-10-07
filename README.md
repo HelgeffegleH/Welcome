@@ -5,7 +5,7 @@ Available repositories:
 
 ### AHK:
 
-*	[buf](https://github.com/HelgeffegleH/hashTable) - Simple buffer operations. [Wiki](https://github.com/HelgeffegleH/buf/wiki/About).
+*	[buf](https://github.com/HelgeffegleH/buf) - Simple buffer operations. [Wiki](https://github.com/HelgeffegleH/buf/wiki/About).
 *	[hashTable](https://github.com/HelgeffegleH/hashTable) - Custom associative array. [Wiki](https://github.com/HelgeffegleH/hashTable/wiki) and [AHK forum](https://autohotkey.com/boards/viewtopic.php?f=6&t=36377).
 *  [kbhook](https://github.com/HelgeffegleH/kbhook) - Low level keyboard hook class. See code comments for instructions.
 *  [LoadPictureType](https://github.com/HelgeffegleH/LoadPictureType) - Wrapper and extension of AHK function LoadPicture. [Docs.](https://autohotkey.com/boards/viewtopic.php?f=6&t=33209 "Visit autohotkey.com forums")
